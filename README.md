@@ -28,7 +28,7 @@ The purpose of hello-terraform is to get up and running as quick as possible wit
    cd examples/02-passing-input
    ```
 
-   > :blue_book: **Note:** This example passes the `target` argument to the [mbigras/hello-terraform](https://github.com/mbigras/hello-terraform) child module. Refer to [examples/01-default-inputs](https://github.com/mbigras/hello-terraform/tree/master/examples/01-default-inputs) for an example that doesn't pass any input, and therefore, only uses the child module's default input variables.
+   > :blue_book: **Note:** This example passes the [`target` argument](https://github.com/mbigras/hello-terraform/blob/c0f9b9bfc752fec210c48a9bb4739d396e4b7999/examples/02-passing-input/main.tf#L4) to the [mbigras/hello-terraform](https://github.com/mbigras/hello-terraform) child module. Refer to [examples/01-default-inputs](https://github.com/mbigras/hello-terraform/tree/master/examples/01-default-inputs) for an example that doesn't pass any input, and therefore, only uses the child module's default input variables.
 
 1. Download the [mbigras/hello-terraform](https://github.com/mbigras/hello-terraform) Terraform module.
 
