@@ -1,6 +1,6 @@
 # Hello Terraform
 
-> Hello-terraform is a Terraform module that illustrates basic input and output.
+> Hello-terraform illustrates a Terraform module through examples that you run on the command-line.
 
 ## Summary
 
